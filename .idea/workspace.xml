@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c80b211-67e6-40fc-a9cb-9ac794b408a7" name="Changes" comment="OOPS">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exampleSnippet/ClassObject.java" afterDir="false" />
+    <list default="true" id="8c80b211-67e6-40fc-a9cb-9ac794b408a7" name="Changes" comment="Class and Objects">
+      <change afterPath="$PROJECT_DIR$/src/main/java/exampleSnippet/AbstractionExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,26 @@
       <recent name="C:\Mini Projects\GIT\JavaTutorial\src\main\java\2.HowItWorks" />
       <recent name="C:\Mini Projects\GIT\JavaTutorial\src\main\java\JavaOverview" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exampleSnippet.BM" />
+      <module name="JavaTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exampleSnippet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BM" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -102,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696092006592</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Class and Objects">
+      <option name="closed" value="true" />
+      <created>1696177471997</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696177471997</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -111,6 +139,7 @@
     <MESSAGE value="How it works" />
     <MESSAGE value="Keywords Uploaded" />
     <MESSAGE value="OOPS" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOPS" />
+    <MESSAGE value="Class and Objects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and Objects" />
   </component>
 </project>
