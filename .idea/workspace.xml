@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c80b211-67e6-40fc-a9cb-9ac794b408a7" name="Changes" comment="Package Updated">
-      <change afterPath="$PROJECT_DIR$/src/main/java/exampleSnippet/Inheritance.java" afterDir="false" />
+    <list default="true" id="8c80b211-67e6-40fc-a9cb-9ac794b408a7" name="Changes" comment="Inheritance Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +46,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Mini Projects\GIT\JavaTutorial\src\main\java\5\Package" />
       <recent name="C:\Mini Projects\GIT\JavaTutorial\src\main\java\4\OOPS" />
+      <recent name="C:\Mini Projects\GIT\JavaTutorial\src\main\java\5\Package" />
       <recent name="C:\Mini Projects\GIT\JavaTutorial\src\main\java\3\KeyWords" />
       <recent name="C:\Mini Projects\GIT\JavaTutorial\src\main\java\2.HowItWorks" />
       <recent name="C:\Mini Projects\GIT\JavaTutorial\src\main\java\JavaOverview" />
@@ -147,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696521145759</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Inheritance Updated">
+      <option name="closed" value="true" />
+      <created>1696668243470</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696668243470</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -159,6 +166,88 @@
     <MESSAGE value="Class and Objects" />
     <MESSAGE value="Abstraction" />
     <MESSAGE value="Package Updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Package Updated" />
+    <MESSAGE value="Inheritance Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inheritance Updated" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/exampleSnippet/Solution.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
